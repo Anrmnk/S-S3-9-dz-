@@ -7,12 +7,6 @@ int M = Convert.ToInt32 (Console.ReadLine());
 Console.WriteLine("Введите неотрицательное число N");
 int N = Convert.ToInt32 (Console.ReadLine());
 Console.WriteLine(Akkerman(M,N));
-// AkkermanFunc (M, N);
-
-// void AkkermanFunc(int m, int n)
-// {
-//     Console.Write(Akkerman(m, n)); 
-// }
 
 int Akkerman (int m, int n)
 {
